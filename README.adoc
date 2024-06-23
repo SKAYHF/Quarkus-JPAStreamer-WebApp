@@ -34,7 +34,7 @@
 - Фреймворк: Quarkus
 - ORM: Hibernate
 - Библиотека: JPAStreamer
-- СУБД: MySQL или H2 Database (для тестирования)
+- СУБД: MySQL/H2 Database (для тестирования)
 - Инструмент сборки: Maven
 - Среда разработки: IntelliJ IDEA 
 - Система контроля версий: Git
